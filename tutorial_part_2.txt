@@ -1,0 +1,23 @@
+-----------------------------------------------------------------------------
+Pieces are indicated by the first letter of their names in uppercase, except for the Knight.
+King - K
+Queen - Q
+Rook - R
+Bishop - B
+Knight - N (since K is already allotted to the King)
+Pawns are denoted not by a letter, but by the absence of any.
+
+8 | | | | | | | | |
+7 | | | | | | | | |
+6 | | | | | | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | |♔| | | | |
+2 | | | | | | | | |
+1 | | | | | | | | |
+   a b c d e f g h
+A move with the White King from d3 to c4 would be written as:
+    Kc4
+Note that the starting square is not mentioned and there are no spaces.
+However, either of the starting co-ordinates may be added to make the move clearer.
+    Kdc4, K3c4, Kd3c4

@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------
+8 |♜| |♕| |♚| | |♜|
+7 |♟| | | |♟|♟|♟|♟|
+6 | |♟| |♟| | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | | | | | | |
+2 | | | | | | | | |
+1 | | | | | | | | |
+   a b c d e f g h
+In this position, Black's King is under check, and the only legal move is for the
+Rook to capture the Queen.
+    Rc8
+OR, optionally,
+    Rxc8
+Here, the 'x' indicates that the move is a capture. However, it is optional as well.

@@ -1,0 +1,33 @@
+-----------------------------------------------------------------------------
+8 |♜| | | |♚| | |♜|
+7 |♟| | | |♟|♟|♟|♟|
+6 |♕|♟| |♟| | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | | | | | | |
+2 | | | | | | | | |
+1 | | | | | | | | |
+   a b c d e f g h
+In this position, White can give a check by moving his queen to c8.
+(Though it would not be a good decision at all)
+Such a move would be written as
+    Qc8
+OR, optionally,
+    Qc8+
+Here, the '+' indicates that the move gives check to the enemy King.
+FIDE recommends the use of this sign, though it is not necessary.
+
+If the black rook on a8 was not present, it would be checkmate as well.
+8 | | |♕| |♚| | |♜|
+7 |♟| | | |♟|♟|♟|♟|
+6 | |♟| |♟| | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | | | | | | |
+2 | | | | | | | | |
+1 | | | | | | | | |
+   a b c d e f g h
+In such a case, the move may be written as
+    Qc8 OR Qc8# OR Qc8++
+The '#' and '++' indicate that the move results in checkmate.
+FIDE recommends the use of '#', though it is not necessary.

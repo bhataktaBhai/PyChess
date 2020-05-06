@@ -1,0 +1,18 @@
+-----------------------------------------------------------------------------
+8 | | | | | | | |♕|
+7 | | | | | | | | |
+6 | | | | | | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | | | | | | |
+2 | |♕| | | | | |♕|
+1 | | | | | | | | |
+   a b c d e f g h
+In this hard-to-arise but rather curious position, white has 3 Queens! Moreover,
+all of them can be moved to d4! Such a move can NOT be expressed as any of these:
+    Qd4, Qhd4, Q2d4
+Instead, one would have to use:
+    Qbd4:  Moving the Queen on b2 to d4
+    Q8d4:  Moving the Queen on h8 to d8  OR
+    Qh2d4: Moving the Queen on h2 to d4
+In the last case, BOTH the original co-ordinates become necessary!

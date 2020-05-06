@@ -1,0 +1,6 @@
+-----------------------------------------------------------------------------
+Lastly, here is an extremely short game illustrated by algebraic notation.
+1. f3     e5
+2. g4??   Qh4#
+
+Try it out on a chessboard, or use this project instead!

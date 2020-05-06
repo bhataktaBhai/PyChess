@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------
+Algebraic notation has some room for personal comments as well.
+The characters '!' and '?' may be added to the end of a move to show if it is a good or bad move.
+    !  :  Great Move
+    !! :  Excellent move
+    ?  :  Mistake
+    ?? :  Blunder
+    !? :  Interesting but risky move
+    ?! :  Dubious move
+In the earlier example, Qc8+ could be written as
+    Qc8+??

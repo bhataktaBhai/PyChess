@@ -1,0 +1,19 @@
+-----------------------------------------------------------------------------
+Algebraic notation is a compact way of representing Chess moves.
+These tutorial follows the rules prescribed by FIDE, the primary chess governing body.
+
+Files (vertical columns) on the chessboard are labelled 'a' through 'h' (lowercase).
+Ranks (horizontal rows) on the chessboard are labelled 1 through 8.
+        BLACK
+8 | | | | | | | | |
+7 | | | | | | | | |
+6 | | | | | | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | | | | | | |
+2 | | | | | | | | |
+1 | | | | | | | | |
+   a b c d e f g h
+        WHITE
+Each square is represented as <file><rank> with no space in between.
+For example, the third square of the fifth column would be labelled 'e3'.

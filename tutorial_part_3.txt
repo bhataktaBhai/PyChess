@@ -1,0 +1,32 @@
+-----------------------------------------------------------------------------
+Sometimes, additional information about the starting co-ordinates becomes necessary.
+
+8 |♜| | | | | | |♜|
+7 | | | | | | | | |
+6 | | | | | | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | | | | | | |
+2 | | | | | | | | |
+1 | | | | | | | | |
+   a b c d e f g h
+Here, Rc8 is too vague a notation as TWO Rooks can move to c8.
+Thus, it is necessary to specify the file of the Rook to be moved.
+    Rac8 or Rhc8
+Of course, you may optionally write the rank as well.
+    Ra8c8 or Rh8c8.
+Note that specifying only the rank will not work, as both Rooks are on the same rank.
+If the pieces are on different files as well as different ranks, FIDE recommends,
+though it is not compulsory, to indicate the original file and not rank.
+
+8 |♜| | | |♚| | |♜|
+7 | | | | | | | | |
+6 | | | | | | | | |
+5 | | | | | | | | |
+4 | | | | | | | | |
+3 | | | | | | | | |
+2 | | | | | | | | |
+1 | | | | | | | | |
+   a b c d e f g h
+In this position, however, Rc8 is sufficient notation, as the path of the other rook to c8
+is blocked by his own King. Neither the original file is needed nor the original rank.
